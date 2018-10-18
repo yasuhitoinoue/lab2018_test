@@ -24,3 +24,8 @@ RでProxyサーバの指定
 　Sys.setenv("http_proxy"="http://<ProxyサーバのIP or ホスト名>:<Port番号>")
 　Sys.setenv("http_proxy"="http://username:password@10.1.16.8:8080"/)
 
+Python
+ Anaconda Pythonのパッケージ
+ https://www.anaconda.com/download/
+ 3.x系を入れる．
+
