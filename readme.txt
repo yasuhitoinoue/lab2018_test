@@ -29,3 +29,6 @@ RでProxyサーバの指定
 　https://qiita.com/keigodasu/items/4ee0de2955f65ad59adf
 　Sys.setenv("http_proxy"="http://<ProxyサーバのIP or ホスト名>:<Port番号>")
 　Sys.setenv("http_proxy"="http://username:password@10.1.16.8:8080"/)
+
+
+あ
